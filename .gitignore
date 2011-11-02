@@ -1,0 +1,7 @@
+obj
+bin
+*.ReSharper.user
+*.resharper
+*.suo
+
+trac.config

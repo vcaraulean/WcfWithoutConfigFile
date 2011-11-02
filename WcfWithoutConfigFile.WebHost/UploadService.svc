@@ -1,0 +1,3 @@
+﻿<%@ ServiceHost Service="WcfWithoutConfigFile.Service.UploadService" 
+                Factory="WcfWithoutConfigFile.WebHost.UploadServiceServiceHostFactory"
+                Language="C#" Debug="true"  %>
