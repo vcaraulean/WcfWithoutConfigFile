@@ -1,0 +1,3 @@
+﻿<%@ ServiceHost Service="IUploadService" 
+                Factory="Castle.Facilities.WcfIntegration.DefaultServiceHostFactory, Castle.Facilities.WcfIntegration" 
+                Language="C#" Debug="true"  %>
